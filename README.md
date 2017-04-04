@@ -1,2 +1,9 @@
 # hello-world
-just another repository
+
+Ramsay Robert
+
+FSC student
+
+Senior
+
+i like burrito!
